@@ -1,6 +1,8 @@
 # sketch_assets
 Paige Shin
 
+https://www.notion.so/Sketch-860c33fc48a94b3d9db4ce958216017f
+
 # What is Sketch?
 - Vector Screen Design Application
 - Pixel Based Screen
